@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1446671344 source:d:\c\data structures\c programs\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1500450817 source:d:\c\data structures\c programs\1.c
+	<stdio.h>
+
